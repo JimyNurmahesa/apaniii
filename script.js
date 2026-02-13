@@ -1,6 +1,6 @@
 const CONFIG = {
   mainQuestion: 'Will you be my Valentine?',
-  subQuestion: 'Please say yes ',
+  subQuestion: 'Yes lahh masa nggaaa ',
   yesButton: 'YES',
   noButton: 'NO',
   noEscapeTexts: ['Kok No Sii 😡', 'Jangan No Sayanggg 😑', 'Bodo Amat Yg Penting YESSSS ya! 💕'],
@@ -378,3 +378,4 @@ document.addEventListener('DOMContentLoaded', () => {
   new ParticleSystem();
   initMouseTrail();
 });
+
